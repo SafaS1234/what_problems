@@ -2,7 +2,7 @@
 #include <string>
 #include <vector>
 #include <cctype>
-#include<sstream>
+#include <sstream>
 
 using namespace std;
 
